@@ -1,4 +1,4 @@
-cautoencoder
+c__main__
 AutoencoderComponent
 p1
 .

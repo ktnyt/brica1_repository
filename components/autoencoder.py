@@ -57,5 +57,4 @@ component = AutoencoderComponent
 pickle.dump(component, f)
 f.close()
 
-print component
 
